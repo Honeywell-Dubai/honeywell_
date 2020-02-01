@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<HoneyWellCameras last_modified="2019-08-18" date_format="YYYY-MM-dd" version_major="1" version_minor="0" version_patch="0">
+  <Camera Name="HBL6GR2">
+    <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="H4L2GR1V">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="HBL2GR1V">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="HDZ302DIN">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="HDZ302D">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="H4L6GR2">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="H4D8GR1">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="HBW4GR1V">
+       <Properties description="honewell camera"/>
+  </Camera>
+  <Camera Name="H4W4GR1V">
+       <Properties description="honewell camera"/>
+  </Camera>
+</HoneyWellCameras>
