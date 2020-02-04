@@ -1,11 +1,9 @@
 {
-    "Details":{
-        "version_major":"1",
-        "version_minor":"0",
-        "version_patch":"0",
-        "file_name":"honeywell_camera.exe",
-        "released_on":"2019-08-19",
-        "date_format":"YYYY-MM-dd",
-        "description":"Pilot release wit all relevant details"
+    "version_major":"1",
+    "version_minor":"0",
+    "version_patch":"0",
+    "file_name":"honeywell_camera.exe",
+    "released_on":"2019-08-19",
+    "date_format":"YYYY-MM-dd",
+    "description":"Pilot release wit all relevant details"
     }
-}
