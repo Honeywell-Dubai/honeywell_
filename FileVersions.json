@@ -5,6 +5,6 @@
     "version_subpatch":"0",
     "file_name":"honeywell_camera.exe",
     "released_on":"2019-08-19",
-    "date_format":"YYYY-MM-dd",
+    "date_format":"yyyy-MM-dd",
     "description":"Pilot release wit all relevant details"
     }
