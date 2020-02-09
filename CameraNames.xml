@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <HoneyWellCameras>
   <Camera Name="HBL6GR2" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa" image_name="cctvtest.jpg" />
-  <Camera Name="H4L2GR1V" file_name="" image_name=""  />
-  <Camera Name="HBL2GR1V" file_name="" image_name="" />
+  <Camera Name="H4L2GR1V" file_name="6MP Fixed style outdoor camera Bullet – Corner Mount.rfa" image_name="domecctv.jpg"  />
+  <Camera Name="HBL2GR1V" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa" image_name="pointedcctv.jpg" />
   <Camera Name="HDZ302DIN" file_name="" image_name="" />
   <Camera Name="HDZ302D" file_name="" image_name="" />
   <Camera Name="H4L6GR2" file_name="" image_name="" />
