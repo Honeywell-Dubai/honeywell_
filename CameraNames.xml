@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <HoneyWellCameras>
-  <Camera Name="HBL6GR2" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa" image_name="cctvtest.jpg" />
-  <Camera Name="H4L2GR1V" file_name="6MP Fixed style outdoor camera Bullet – Corner Mount.rfa" image_name="domecctv.jpg"  />
-  <Camera Name="HBL2GR1V" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa" image_name="pointedcctv.jpg" />
-  <Camera Name="HDZ302DIN" file_name="" image_name="" />
-  <Camera Name="HDZ302D" file_name="" image_name="" />
-  <Camera Name="H4L6GR2" file_name="" image_name="" />
-  <Camera Name="H4D8GR1" file_name="" image_name=""  />
-  <Camera Name="HBW4GR1V" file_name="" image_name=""  />
-  <Camera Name="H4W4GR1V" file_name="" image_name=""  />
-  <Camera Name="HBL6GR2" file_name="" image_name="" />
-  <Camera Name="HBL6GR2" file_name="" image_name=""  />
-  <Camera Name="HDZ303LIK" file_name="" image_name=""  />
-  <Camera Name="HDZ302LIW" file_name="" image_name=""  />
+
+  <!--> BREAK <!-->
+  <Camera Name="HBL6GR2" image_name="">
+    <Type title="Wall Mount" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="6MP Fixed style outdoor camera Bullet – Corner Mount.rfa"/>
+  </Camera> 
+
+   <!--> BREAK <!-->
+  <Camera Name="H4L2GR1V">
+
+  </Camera> 
+
+  <!--> BREAK <!-->
+  <Camera Name="HBL2GR1V">
+
+  </Camera> 
+
+  <!--> BREAK <!-->
+  <Camera Name="HDZ302DIN">
+
+  </Camera> 
+
+  <!--> BREAK <!-->
+  <Camera Name="HDZ302D">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="H4L6GR2">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="H4D8GR1">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="HBW4GR1V">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="H4W4GR1V">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="HDZ303LIK">
+
+  </Camera> 
+
+ <!--> BREAK <!-->
+  <Camera Name="HDZ302LIW">
+
+  </Camera> 
 </HoneyWellCameras>
