@@ -5,6 +5,7 @@
   <Camera Name="HBL6GR2" image_name="">
     <Type title="Wall Mount" file_name="6MP Fixed style outdoor camera Bullet_Wall mount.rfa"/>
     <Type title="Corner Mount" file_name="6MP Fixed style outdoor camera Bullet – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="6MP Fixed style outdoor camera Bullet – Pole Mount.rfa"/>
   </Camera> 
 
    <!--> BREAK <!-->
@@ -29,31 +30,71 @@
 
  <!--> BREAK <!-->
   <Camera Name="H4L6GR2">
-
+    <Type title="Wall Mount" file_name="6MP Fixed style indoor camera Dome - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="6MP Fixed style indoor camera Dome – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="6MP Fixed style indoor camera Dome - Pole mount.rfa"/>
+    <Type title="Surface Wall Mount" file_name="6MP Fixed style indoor camera Dome - Surface Wall Mount.rfa"/>
+    <Type title="Surface Ceiling Mount" file_name="6MP Fixed style indoor camera Dome - Surface Ceiling Mount.rfa"/>
+    <Type title="Ceiling Mount_P1" file_name="6MP Fixed style indoor camera Dome - Ceiling Mount_P1.rfa"/>
+    <Type title="Ceiling Mount_220mm" file_name="6MP Fixed style indoor camera Dome - Ceiling Mount_220mm.rfa"/>
+    <Type title="Ceiling Mount_420mm" file_name="6MP Fixed style indoor camera Dome - Ceiling Mount_420mm.rfa"/>
+    <Type title="Ceiling Mount_640mm" file_name="6MP Fixed style indoor camera Dome - Ceiling Mount_640mm.rfa"/>
   </Camera> 
 
  <!--> BREAK <!-->
   <Camera Name="H4D8GR1">
-
+    <Type title="Wall Mount" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Pole mount.rfa"/>
+    <Type title="Surface Wall Mount" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Surface Wall Mount.rfa"/>
+    <Type title="Surface Ceiling Mount" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Surface Ceiling Mount.rfa"/>
+    <Type title="Ceiling Mount_P1" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Ceiling Mount_P1.rfa"/>
+    <Type title="Ceiling Mount_220mm" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Ceiling Mount_220mm.rfa"/>
+    <Type title="Ceiling Mount_420mm" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Ceiling Mount_420mm.rfa"/>
+    <Type title="Ceiling Mount_640mm" file_name="12 MP (4K Ultra HD) Outdoor IR IP-Mini Dome Camera - Ceiling Mount_640mm.rfa"/>
   </Camera> 
 
  <!--> BREAK <!-->
   <Camera Name="HBW4GR1V">
-
+    <Type title="Wall Mount" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="4MP Network TDN WDR IR Outdoor Dome Camera – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Pole mount.rfa"/>
+    <Type title="Surface Wall Mount" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Surface Wall Mount.rfa"/>
+    <Type title="Surface Ceiling Mount" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Surface Ceiling Mount.rfa"/>
+    <Type title="Ceiling Mount_P1" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Ceiling Mount_P1.rfa"/>
+    <Type title="Ceiling Mount_220mm" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Ceiling Mount_220mm.rfa"/>
+    <Type title="Ceiling Mount_420mm" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Ceiling Mount_420mm.rfa"/>
+    <Type title="Ceiling Mount_640mm" file_name="4MP Network TDN WDR IR Outdoor Dome Camera - Ceiling Mount_640mm.rfa"/>
   </Camera> 
 
  <!--> BREAK <!-->
   <Camera Name="H4W4GR1V">
-
+    <Type title="Wall Mount" file_name="4MP Network TDN WDR IR Bullet Camera - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="4MP Network TDN WDR IR Bullet Camera – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="4MP Network TDN WDR IR Bullet Camera - Pole mount.rfa"/>
   </Camera> 
 
  <!--> BREAK <!-->
   <Camera Name="HDZ303LIK">
-
+    <Type title="Wall Mount" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Pole mount.rfa"/>
+    <Type title="Wall Mount With Junction Box" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Wall Mount With Junction Box.rfa"/>
+    <Type title="Ceiling Mount_P1" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Ceiling Mount_P1.rfa"/>
+    <Type title="Ceiling Mount_220mm" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Ceiling Mount_220mm.rfa"/>
+    <Type title="Ceiling Mount_420mm" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Ceiling Mount_420mm.rfa"/>
+    <Type title="Ceiling Mount_640mm" file_name="PTZ IR Ultra Low Light IP (LIK) Cameras - Ceiling Mount_640mm.rfa"/>
   </Camera> 
 
  <!--> BREAK <!-->
   <Camera Name="HDZ302LIW">
-
+    <Type title="Wall Mount" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Wall mount.rfa"/>
+    <Type title="Corner Mount" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras – Corner Mount.rfa"/>
+    <Type title="Pole Mount" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Pole mount.rfa"/>
+    <Type title="Wall Mount With Junction Box" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Wall Mount With Junction Box.rfa"/>
+    <Type title="Ceiling Mount_P1" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Ceiling Mount_P1.rfa"/>
+    <Type title="Ceiling Mount_220mm" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Ceiling Mount_220mm.rfa"/>
+    <Type title="Ceiling Mount_420mm" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Ceiling Mount_420mm.rfa"/>
+    <Type title="Ceiling Mount_640mm" file_name="PTZ IR Ultra Low Light IP (LIW) Cameras - Ceiling Mount_640mm.rfa"/>
   </Camera> 
 </HoneyWellCameras>
